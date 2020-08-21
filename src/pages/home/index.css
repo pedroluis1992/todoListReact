@@ -1,0 +1,12 @@
+.text-field{
+    width: 100%;
+    margin-bottom: 30px !important;
+}
+
+.text-area{
+    width: 98% !important;
+    height: 20% !important;
+    resize: none;
+    margin-bottom: 30px !important;
+
+}
